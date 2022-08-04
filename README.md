@@ -25,6 +25,7 @@ O projeto foi criado utilizando as seguintes tecnologias:
 <br />
 
 ## 🚀 Minhas alterações:
+Em desenvolvimento!
 
 <br />
 
